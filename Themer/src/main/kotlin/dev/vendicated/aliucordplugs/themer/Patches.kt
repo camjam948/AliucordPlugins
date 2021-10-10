@@ -375,7 +375,7 @@ private fun PatcherAPI.themeTextInput() {
     })
 }
 
-const val THEMES_CHANNEL_ID = 868419532992172073L
+const val THEMES_CHANNEL_ID = 824357609778708580L
 
 @SuppressLint("SetTextI18n")
 private fun PatcherAPI.addDownloadButton() {
